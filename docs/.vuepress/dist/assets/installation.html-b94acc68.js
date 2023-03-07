@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as n,R as e,t as s}from"./framework-5866ffd3.js";const o={},c=e("h1",{id:"安装",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#安装","aria-hidden":"true"},"#"),s(" 安装")],-1),r=[c];function _(i,l){return a(),n("div",null,r)}const h=t(o,[["render",_],["__file","installation.html.vue"]]);export{h as default};
