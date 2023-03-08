@@ -14,7 +14,8 @@ export default defineUserConfig({
         navbar: [
             {
                 text: '开始',
-                link: '/start/introduction'
+                link: '/start/introduction.md',
+                activeMatch: '/'
             },
             {
                 text: '指南',
@@ -31,7 +32,19 @@ export default defineUserConfig({
                     text: '',
                     children: [
                         '/start/introduction.md',
-                        '/start/installation.md'
+                        '/start/installation.md',
+                        '/start/configuration.md',
+                        '/start/views.md',
+                        '/start/assets.md',
+                        '/start/routing.md',
+                        '/start/seo-and-meta.md',
+                        '/start/transitions.md',
+                        '/start/data-fetching.md',
+                        '/start/state-management.md',
+                        '/start/error-handling.md',
+                        '/start/layers.md',
+                        '/start/deployment.md',
+                        '/start/testing.md',
                     ]
                 }
             ]
