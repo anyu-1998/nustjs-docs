@@ -1,7 +1,6 @@
 import { defaultTheme, defineUserConfig } from 'vuepress'
 
 export default defineUserConfig({
-    base: '/nuxtjs-docs/',
     lang: 'zh-CN',
     title: 'Nuxtjs',
     description: '阅读 Nuxt.js 官方文档',
